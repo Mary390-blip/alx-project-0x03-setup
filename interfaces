@@ -1,0 +1,7 @@
+alx-project-0x03/
+  ├── components/
+  ├── interfaces/
+  │   └── index.ts
+  ├── pages/
+  ├── styles/
+  └── ...
